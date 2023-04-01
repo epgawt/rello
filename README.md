@@ -40,6 +40,7 @@ As an initial implementation approach I see Reinforcement Learning AI techniques
 The programming language to use will be Python, but of course we’ll adapt to the circumstances.
 
 This would a very high level picture of the system:
+![rello](/Screenshot 2023-04-01 at 14.25.01.png)
 
 ## Challenges
 
