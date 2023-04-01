@@ -1,4 +1,4 @@
-# rello
+# Crypto Price Prediction
 Building AI course project
 
 ## Summary
