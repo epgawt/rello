@@ -5,7 +5,7 @@ Building AI course project
 
 The project consist on a Crypto Price Prediction Tool, created as an strategy game where a digital player tries to find out the best factors and conditions to take into consideration so that he can predict the future prices.
 
-The demand defines the price, which fluctuates in time according to many factors, but the pure data is there, so the challenge is to discover the weather signs that can predict either the rain or the sunshine of a concrete token value.
+The demand defines the price, which fluctuates in time according to many factors, but the pure data is there, so the challenge is to discover the "weather signs" that can predict either the "rain" or the "sunshine" of a concrete token value.
 
 ## Background
 
