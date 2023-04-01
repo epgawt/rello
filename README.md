@@ -7,6 +7,8 @@ The project consist on a Crypto Price Prediction Tool, created as an strategy ga
 
 The demand defines the price, which fluctuates in time according to many factors, but the pure data is there, so the challenge is to discover the "weather signs" that can predict either the "rain" or the "sunshine" of a concrete token value.
 
+Building AI course project
+
 ## Background
 
 I’ve been dealing with crypto for a few years now. I bought a couple of books (Andreas M. Antonopoulos, Gavin Wood, Mastering Ethereum & Mastering Blockchain) to understand blockchain, the amazing technology beneath, and Ethereum, for the magic of smart contracts. In fact, I’m also learning Solidity as a hobby, and I’ve dealt with many ways of getting crypto in many places.
