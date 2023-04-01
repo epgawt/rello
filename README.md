@@ -11,7 +11,7 @@ The demand defines the price, which fluctuates in time according to many factors
 
 I’ve been dealing with crypto for a few years now. I bought a couple of books (Andreas M. Antonopoulos, Gavin Wood, Mastering Ethereum & Mastering Blockchain) to understand blockchain, the amazing technology beneath, and Ethereum, for the magic of smart contracts. In fact, I’m also learning Solidity as a hobby, and I’ve dealt with many ways of getting crypto in many places.
 
-Besides the evident use of crypto, the thing is that investing on it is very risky at the minimum due to the relative volatility of prices, but after swimming in that brave sea, one can easily perceive that there seem to be patterns followed by those that somehow track the market movements, triggering thousands or millions of individuals after them.
+Besides the evident use of crypto, the thing is that investing on it is very risky at the minimum due to the relative volatility of prices. After swimming in that brave sea, one can easily perceive that there seem to be patterns followed by those that somehow track the market movements, triggering thousands or millions of individuals after them.
 
 If you have a look at the trades when they are going up or down, there is a lot of data that can be analyzed, not only for a concrete token during whatever period of time, but for many of them all together. Of course there are environmental factors that affect prices unexpectedly (like Elon’s tweets), but the point here is to try to predict with the best accuracy what’s going to happen at a concrete moment in future time, by discovering those “weather signs”, those behaviors hidden in that immense amount of data.
 
