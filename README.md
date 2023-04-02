@@ -39,6 +39,8 @@ The ideal situation is the one where as usual we easily gather a huge amount of 
 
 As an initial implementation approach I see Reinforcement Learning AI techniques, where we could even see the issue as a kind of strategy game. This path seems to be very promising in the community (i.e. https://www.amii.ca/latest-from-amii/future-ai-reinforcement-learning-and-heres-why/#:~:text=Supportive%20AI%20requires%20two%20things,next%20big%20thing%20in%20AI.), and also, regarding the data availability there seems to be no problem at all.
 
+Also Convolutional Neural Networks (CNNs) could be worth to explore since, like with pixels in image processing, analysing the huge number of market trade movements may need a kind of efficient simplification of the input.
+
 The programming language to use will be Python, but of course we’ll adapt to the circumstances.
 
 This would a very high level picture of the system:
