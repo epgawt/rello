@@ -27,7 +27,7 @@ I am perfectly aware that this thing I am thinking of may not be possible at all
 
 ## How is it used?
 
-If there is a solution with a respectable % of accuracy, besides using it for myself of course, I would think of it as another rate factor to take into account, perhaps with premium features to be sold by subscription, like ChatGPT. But since I have no idea yet of what the pre-conditions are to obtain good results, I can’t reasonably think of how it would be used.
+I would think of it as another rate factor to take into account, so that it could help everyone to invest better, perhaps with premium features to be sold by subscription, like ChatGPT. But since I have no idea yet of what the pre-conditions are to obtain good results, I can’t reasonably think of how it would be used.
 
 ## Data sources and AI methods
 
