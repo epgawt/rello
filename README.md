@@ -57,7 +57,7 @@ The most important ones would be:
 For the first point, a lot of study on the matter will be necessary, this is not a new challenge and surely there will be tons of docs, but on the other hand, crypto is “new” and AI has evolved dramatically in the last years, so, there is hope for new ways of presenting the problem and so the solutions.
 RL is what is on my mind, but this may not be the proper path, however, the journey to find it out will be amazingly fruitful.
 
-If in order to find a solution, we guess that it is mandatory to manage a huge amount of information, so there may exist a financial problem, we’ll see, in any case, I hope the work done to reach to that conclusion would be enough to attract possible investors, or we can work at scale, I don’t know.
+In order to find a solution, we guess that it is mandatory to manage a huge amount of information, so there may exist a financial problem, we’ll see, in any case, I hope the work done to reach to that conclusion would be enough to attract possible investors, or we can work at scale, I don’t know.
 
 ## What next?
 
